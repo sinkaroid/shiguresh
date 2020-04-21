@@ -16,7 +16,7 @@ WHITE=$(tput setaf 7)
 
 pasti="?email=${email}\&submit=+>+'" #parameter
 
-#trash strings will show here
+#trash pattern will show here
 
 kontol=" | grep -oP '(?<=href=" #login
 bajingan='")[^"]*' #pecahan
